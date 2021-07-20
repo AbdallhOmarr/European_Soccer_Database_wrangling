@@ -1,5 +1,7 @@
 # European_Soccer_Database_wrangling
 The European soccer database contains data about football from 2008 to 2016.
+I uploaded my analysis using Python and Pandas on Jupyter Notebook
+
 The ultimate Soccer database for data analysis and machine learning
 What you get:
 
