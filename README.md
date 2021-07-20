@@ -3,6 +3,7 @@ The European soccer database contains data about football from 2008 to 2016.
 The ultimate Soccer database for data analysis and machine learning
 What you get:
 
+<pre>
 +25,000 matches
 +10,000 players
 11 European Countries with their lead championship
